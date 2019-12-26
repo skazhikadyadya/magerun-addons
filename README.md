@@ -21,7 +21,7 @@ Here's the easiest:
 
 2. Clone the magerun-addons repository in there
 
-        cd ~/.n98-magerun/modules/ && git clone git@github.com:peterjaap/magerun-addons.git
+        cd ~/.n98-magerun/modules/ && git clone git@github.com:magemojo/magerun-addons.git
 
 3. It should be installed. To see that it was installed, check to see if one of the new commands is in there, like `media:sync`.
 
